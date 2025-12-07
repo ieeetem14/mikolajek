@@ -3,8 +3,6 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import Circle, Rectangle, Polygon, Ellipse
 
 ## 🧑‍🎄 Kod Streamlit: Rysunek Mikołaja
----
-
 # Tytuł aplikacji
 st.title("🎅 Rysunek Mikołaja za pomocą Matplotlib")
 st.write("Ten kod generuje Mikołaja przy użyciu kształtów `matplotlib.patches` i wyświetla go w Streamlit.")
